@@ -1,5 +1,5 @@
-# 💫 About Me:
-Rohan Gaikwad | Data Analyst<br><br>Data Analyst with 4+ years of experience in Healthcare Analytics, specializing in Tableau, Power BI, SQL, BigQuery, Python, and AI-driven analytics solutions. Experienced in dashboard development, data visualization, KPI reporting, and cloud-based analytics, with proficiency in GitHub, Jira, and SourceTree.<br><br>Technical Skills<br><br>Core Languages:<br>C, C++, Java, .NET<br><br>Front-End & Visualization Tools:<br>Tableau, Power BI, HTML, CSS, Microsoft Excel<br><br>Back-End & Data Technologies:<br>SQL, Python, NumPy, BigQuery<br><br>Cloud & Collaboration Tools:<br>GitHub, Jira, SourceTree<br><br>AI & Analytics:<br>Vertex AI, Data Visualization, KPI Reporting, Healthcare Analytics, Business Intelligence (BI)
+# About Me:
+Rohan Gaikwad | Data Analyst<br><br>Data Analyst with 4+ years of experience in Healthcare Analytics, specializing in Tableau, Power BI, SQL, BigQuery, Python, and AI-driven analytics solutions. Experienced in dashboard development, data visualization, KPI reporting, and cloud-based analytics, with proficiency in GitHub, Jira, and SourceTree.<br><br><b>Technical Skills</b><br><br>Core Languages:<br>C, C++, Java, .NET<br><br>Front-End & Visualization Tools:<br>Tableau, Power BI, HTML, CSS, Microsoft Excel<br><br>Back-End & Data Technologies:<br>SQL, Python, NumPy, BigQuery<br><br>Cloud & Collaboration Tools:<br>GitHub, Jira, SourceTree<br><br>AI & Analytics:<br>Vertex AI, Data Visualization, KPI Reporting, Healthcare Analytics, Business Intelligence (BI)
 
 
 ## 🌐 Socials:
