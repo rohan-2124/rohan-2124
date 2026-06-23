@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | Tableau Developer | BI Specialist | Healthcare Analytics</h3>
 
 <p align="center">
-  Turning raw healthcare data into meaningful business insights 📊
+  Turning raw data into meaningful business insights 📊
 </p>
 
 ---
@@ -82,6 +82,7 @@
 - Revenue Cycle Reporting
 - KPI Monitoring
 - Trend Analysis
+- RCM Dashboard
 
 ### 🤖 AI-Powered Revenue Forecast Dashboard
 - BigQuery
@@ -92,7 +93,7 @@
 ### 📈 Payer Analytics Dashboard
 - Claims Analysis
 - Financial Reporting
-- Executive Scorecards
+
 
 ### 🏥 Clearance & Eligibility Monitoring Dashboard
 - Healthcare Operations Analytics
